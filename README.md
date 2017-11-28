@@ -22,8 +22,8 @@ Playground with [nodemcu](http://www.nodemcu.com/index_en.html)
 
 ## running script
 
-- connect via minicom
-`sudo minicom -D /dev/ttyUSB0 -b 115200`
+- first connect via minicom, then run the script
 
-- run the script
-`dofile('hello.lua')`
+- `sudo minicom -D /dev/ttyUSB0 -b 115200`
+
+- `dofile('hello.lua')`
