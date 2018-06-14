@@ -52,6 +52,14 @@ Playground with [nodemcu](http://www.nodemcu.com/index_en.html)
 
 ![ScreenShot](https://github.com/kivanccakmak/myot/blob/master/doc/figs/http.png)
 
+# blink led
+- `gpio.mode(7, gpio.OUTPUT)`
+- `gpio.write(7, gpio.HIGH)`
+- `gpio.write(7, gpio.LOW)`
+- `gpio.write(7, gpio.HIGH)`
+
+![ScreenShot](https://github.com/kivanccakmak/myot/blob/master/doc/figs/led.jpg)
+
 # Related
 - [nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware/blob/master/README.md)
 - [nodemcu-documentation](https://nodemcu.readthedocs.io/en/master/)
