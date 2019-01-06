@@ -60,6 +60,9 @@ Playground with [nodemcu](http://www.nodemcu.com/index_en.html)
 
 ![ScreenShot](https://github.com/kivanccakmak/myot/blob/master/doc/figs/led.jpg)
 
+# acknowledgements
+- `https://github.com/doganckaratas`
+
 # Related
 - [nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware/blob/master/README.md)
 - [nodemcu-documentation](https://nodemcu.readthedocs.io/en/master/)
