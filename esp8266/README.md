@@ -1,4 +1,4 @@
-# myot
+# esp8266
 
 Playground with [nodemcu](http://www.nodemcu.com/index_en.html)
 

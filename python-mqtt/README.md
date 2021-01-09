@@ -1,3 +1,6 @@
+# python-mqtt
+send receive mqtt messages in python
+
 # installation
 sudo pip install paho-mqtt
 sudo apt-get install mosquitto
