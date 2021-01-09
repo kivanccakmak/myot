@@ -1,0 +1,6 @@
+{
+	"BROKER_IP": "127.0.0.1",
+	"BROKER_PORT": 1883,
+	"TOPIC": "mytopic",
+	"PUBLISHER_NAME": "publiser1"
+}
