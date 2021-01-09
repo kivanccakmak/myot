@@ -1,4 +1,4 @@
-# iot related playgroud scripting
+# iot related scripting
 
 ## [python-mqtt](https://github.com/kivanccakmak/myot/tree/master/python-mqtt)
 send receive mqtt messages with python scripts
