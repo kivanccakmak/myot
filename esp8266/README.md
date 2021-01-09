@@ -50,7 +50,7 @@ Playground with [nodemcu](http://www.nodemcu.com/index_en.html)
 # send a http request
 - `wget 192.168.1.102`
 
-![ScreenShot](https://github.com/kivanccakmak/myot/blob/master/doc/figs/http.png)
+![ScreenShot](https://github.com/kivanccakmak/myot/blob/master/esp8266/doc/figs/http.png)
 
 # blink led
 - `gpio.mode(7, gpio.OUTPUT)`
@@ -58,7 +58,7 @@ Playground with [nodemcu](http://www.nodemcu.com/index_en.html)
 - `gpio.write(7, gpio.LOW)`
 - `gpio.write(7, gpio.HIGH)`
 
-![ScreenShot](https://github.com/kivanccakmak/myot/blob/master/doc/figs/led.jpg)
+![ScreenShot](https://github.com/kivanccakmak/myot/blob/master/esp8266/doc/figs/led.jpg)
 
 # acknowledgements
 - [dogancankaratas](https://github.com/doganckaratas)
